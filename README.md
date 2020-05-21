@@ -4,4 +4,4 @@ Hi
 <h6>$ go get -u -v github.com/zu1k/clashr
 
 
-<h5>$ go get -u -v github.com/zu1k/clashr
+<pre>$ go get -u -v github.com/zu1k/clashr
