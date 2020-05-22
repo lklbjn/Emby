@@ -64,6 +64,11 @@ Ubuntu系统可用以下代码开发端口<pre>iptables -F</pre>
     <pre>systemctl start rclone</pre>
     <pre>systemctl enable rclone</pre>
 5.安装BBRPLUS加速
+<pre>wget -N --no-check-certificate "https://raw.githubusercontent.com/Asgard520/Emby/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh</pre>
+6.设置虚拟内存  
 
-     
+    wget https://www.moerats.com/usr/shell/swap.sh && bash swap.sh
+
+
+   
 
